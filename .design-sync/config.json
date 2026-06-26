@@ -1,0 +1,19 @@
+{
+  "projectId": "2bef7ce5-bda6-4e83-b91b-9852a288077d",
+  "pkg": "chloe-portfolio-slides",
+  "globalName": "ChloePortfolioSlides",
+  "shape": "package",
+  "buildCmd": "npx vite build --config vite.config.lib.mjs",
+  "cssEntry": "./dist/chloe-portfolio-slides.css",
+  "componentSrcMap": {
+    "CoverSlide": "src/app/components/CoverSlide.tsx",
+    "ResumeSlide": "src/app/components/ResumeSlide.tsx",
+    "ResumeDetailSlide": "src/app/components/ResumeDetailSlide.tsx",
+    "ResumeDetailHalfSlide": "src/app/components/ResumeDetailHalfSlide.tsx",
+    "AnalyticsIntroSlide": "src/app/components/AnalyticsIntroSlide.tsx",
+    "CloudDetailSlide": "src/app/components/CloudDetailSlide.tsx",
+    "DataQuerySlide": "src/app/components/DataQuerySlide.tsx",
+    "SidebarDemo": "src/app/components/SidebarDemo.tsx",
+    "WorkflowPortfolio": null
+  }
+}
